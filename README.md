@@ -6,7 +6,7 @@ Diseño e implementación de una red jerárquica tipo **estrella extendida** par
 
 ## 1. Topología de red
 
-![Topología de red](Captura%20de%20pantalla%202026-08-17%20161425.png)
+![Topología de red](topologia.png)
 
 - **S1**: switch núcleo, distribuye VLANs a S2, S3, S4 y S5.
 - **Po1**: EtherChannel S1 ↔ S2.
